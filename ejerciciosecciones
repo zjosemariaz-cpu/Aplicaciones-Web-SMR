@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantilla</title>
+    <meta name="description" content="Esto es la descripción de mi página web">
+    <meta name="keywords" content="html, ejercicio, ejercicio1, ejemplo">
+    <meta name="author" content="Juan Profesor">
+    <meta name="application-name" content="Plantilla.html">
+    <meta name="generator" content="VSCode">
+    <link rel="icon" sizes="64x64" href="./assets/icons/cádiz.png">
+</head>
+<body>
+<h1>Título sección</h1>
+<h2>Título sección</h2>
+<h3>Título sección</h3>
+<h4>Título sección</h4>
+<h5>Título sección</h5>
+<h6>Título sección</h6>
+</body>
+</html>
