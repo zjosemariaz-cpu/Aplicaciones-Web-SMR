@@ -12,13 +12,7 @@
     <link rel="icon" sizes="64x64" href="./assets/icons/cádiz.png">
 </head>
 <body>
- <pre>Párrafo con      6 espacios seguidos
-
-Parrafo con
-
-
-3 retornos de carro
-
-parrafo con     2 tabulaciones.</pre>
+<h1>Salto de línea con BR</h1>Estaba internándose en lo desconocido. <br> Durante todo trayecto hasta Woodfield no dejó de pensar en los aspectos económicos,<br> con el temor de estar cometiendo... <hr>
+<h1>Salto de línea con P</h1><p>Estaba internándose en lo desconocido.</p> <p>Durante todo el trayecto hasta woodfield no dejó de pensar en los aspectos económicos, con el temor de estar cometiendo...</p>
 </body>
 </html>

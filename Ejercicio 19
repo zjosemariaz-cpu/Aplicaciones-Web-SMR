@@ -12,13 +12,10 @@
     <link rel="icon" sizes="64x64" href="./assets/icons/cádiz.png">
 </head>
 <body>
- <pre>Párrafo con      6 espacios seguidos
-
-Parrafo con
-
-
-3 retornos de carro
-
-parrafo con     2 tabulaciones.</pre>
+    <h2>Ejemplo de uso de blockquote</h2>
+    Mi poema favorito es aquel de Federico García Lorca que reza:
+    <Blockquote>Mi corazón, como una serpiente
+        s
+    </Blockquote>
 </body>
 </html>
