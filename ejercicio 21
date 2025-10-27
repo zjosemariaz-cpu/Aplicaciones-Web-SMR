@@ -12,10 +12,8 @@
     <link rel="icon" sizes="64x64" href="./assets/icons/cádiz.png">
 </head>
 <body>
-    <h2>Ejemplo de uso de blockquote</h2>
-    Mi poema favorito es aquel de Federico García Lorca que reza:
-<blockquote>Mi corazón, como una sierpe
-<p>se ha desprendido de su piel, </p> <p>y aquí la miro entre mis dedos</p> <p>llena de heridas y de miel</p>
-</blockquote>
+<p><a href="https://www.marca.com/">marca</a></p>
+<p><a href="https://account.ilerna.com/">ilerna</a></p>
+<p><a href="https://www.abc.es/">abc</a></p>
 </body>
 </html>

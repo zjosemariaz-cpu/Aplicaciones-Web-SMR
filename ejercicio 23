@@ -11,11 +11,7 @@
     <meta name="generator" content="VSCode">
     <link rel="icon" sizes="64x64" href="./assets/icons/cádiz.png">
 </head>
-<body>
-    <h2>Ejemplo de uso de blockquote</h2>
-    Mi poema favorito es aquel de Federico García Lorca que reza:
-<blockquote>Mi corazón, como una sierpe
-<p>se ha desprendido de su piel, </p> <p>y aquí la miro entre mis dedos</p> <p>llena de heridas y de miel</p>
-</blockquote>
+<body> 
+    <h1>Primera página</h1> Enlace a la <a href="https://www.vinted.es/">página segunda</a> <p>Enlace a la página <a href="https://tallertecno.com/">taller tecno</a></p><p>Enlace a <a href="file:///C:/Users/zjosemariaz/Downloads/Videotutoriales%20de%20Instalaci%C3%B3n%20de%20Servidores.pdf">archivo pdf</a> de mi carpeta</p>
 </body>
 </html>
