@@ -12,11 +12,7 @@
     <link rel="icon" sizes="64x64" href="./assets/icons/cádiz.png">
 </head>
 <body>
-<a href="https://www.marca.com/">Enlace con el estilo por defecto</a>
- <p><a href="https://www.abc.es/">Enlace sin subrayado</a></p>
- <p><a href="https://kahoot.it/"><h2>Enlace muy importante</h2></a></p><a 
- href="https://www.marca.com/">Enlace con un estilo raro
-    
- </a>
+<H1>REINO ANIMAL</H1>
+<blockquote>1.<a href="https://www.mncn.csic.es/es/colecciones/cientificas/artropodos">Artrópodos</a>                                                                                                                                                        </blockquote>
 </body>
 </html>
