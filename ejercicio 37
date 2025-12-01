@@ -15,6 +15,5 @@
     <h1>Datos del producto</h1>
     <p>Nombre del producto</p><input type="text">
     <p>Descripción del producto</p>
-    <input type="text">
-</body>
+<textarea rows="5" cols="30"></textarea></body>
 </html>

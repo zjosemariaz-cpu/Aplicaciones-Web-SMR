@@ -12,7 +12,20 @@
     <link rel="icon" sizes="64x64" href="./assets/icons/cádiz.png">
 </head>
 <body>
-   Programa seleccionado
-   <p><input type="">   </p>
+  <form action="">Únete a Tuenti  
+   <p><blockquote>Nombre</blockquote></p> 
+   <p><blockquote>Email</blockquote></p> 
+   <p><blockquote>Sexo</blockquote></p>
+<p><blockquote>Fecha de nacimiento</blockquote></p>
+<p><blockquote>Contraseña</blockquote></p>
+<p><blockquote>Número de móvil</blockquote></p>
+
+
+
+
+
+
+
+</form>
 </body>
 </html>

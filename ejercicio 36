@@ -12,14 +12,16 @@
     <link rel="icon" sizes="64x64" href="./assets/icons/cádiz.png">
 </head>
 <body>
-    <h2>Formulario estructurado</h2>
-   <table>Datos personales
-    <p>Nombre <input type="text"></p>
-    Apellidos <input type="text">
-    <p>DNI <input type="text"></p>
+    <h2>Formulario estructurado</h2><fieldset> <fieldset><legend><p>Nombre <p><input type="text"></p></p>
+    Apellidos <p><input type="text"></p>
+    <p>DNI
+        <p></p><input type="text"></p>
     Datos de conexión<nav><p>Nombre de usuario</p></nav>
     <input type="
     p"><p>Contraseña</p><input type=""><p>Repite la contraseña</p><input type="text">
-    </table> 
+     </legend></fieldset></fieldset>
+
+
+    
 </body>
 </html>
